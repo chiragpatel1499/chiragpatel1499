@@ -1,5 +1,5 @@
 <h2> Hi, I'm Chirag Patel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Engineer at <a href="https://www.ddu.ac.in/">Cybage</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Former member at <a href="https://www.dscddu.com/">DSC DDU</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+<p><em>Software Engineer at <a href="https://www.cybage.com/">Cybage</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Former member at <a href="https://www.dscddu.com/">DSC DDU</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
 [![Twitter: chiragpatel1499](https://img.shields.io/twitter/follow/chiragpatel1499?style=social)](https://twitter.com/chiragpatel1499)
@@ -14,7 +14,7 @@
 ```javascript
 var Chirag = {
   pronouns: "He" | "Him",
-  code: [Python, Java, C, HTML, CSS, Javascript, NodeJs],
+  code: [Python,C, HTML, CSS, Javascript, NodeJs, ReactJs],
   tools: [Git, Azure, GCP, AWS],
   techCommunities: {
                         team-member: "DSC DDU",
