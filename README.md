@@ -14,7 +14,7 @@
 ```javascript
 var Chirag = {
   pronouns: "He" | "Him",
-  code: [Python, C, HTML, CSS, Javascript, NodeJs, ReactJs],
+  code: [C, HTML, CSS, Javascript, NodeJs, ReactJs],
   tools: [Azure, GCP, AWS],
   about: "I am a software engineer who is passionate about learning and creating solutions.\n
           I have worked with web and cloud platform.\n
