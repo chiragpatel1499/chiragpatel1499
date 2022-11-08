@@ -14,9 +14,9 @@
 ```javascript
 var Chirag = {
   pronouns: "He" | "Him",
-  code: [C, HTML, CSS, Javascript, NodeJs, ReactJs],
-  tools: [Azure, GCP, AWS],
-  about: "I am a software engineer who is passionate about learning and creating solutions.\n
+  DevOps Toys: [Kubernetes, Docker, Helm, Jenkins, Datadog, Terraform, Python],
+  Cloud: [Azure, GCP, AWS],
+  about: "I am a DevOps Engineer who is passionate about learning and creating solutions.\n
           I have worked with web and cloud platform.\n
           I am currently exploring many horizons. :)"
 }
