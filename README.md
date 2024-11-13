@@ -1,5 +1,5 @@
 <h2> Hi :wave:, I'm Chirag Patel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>DevOps Engineer at <a href="http://gopronto.io/">Pronto</a> :office: </br>Former member at <a href="https://www.dscddu.com/">DSC DDU</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+<p><em>DevOps Engineer at <a href="https://www.atheerair.com/">Atheer</a> :office: </br>Former member at <a href="https://www.dscddu.com/">DSC DDU</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
 [![Twitter: chiragpatel1499](https://img.shields.io/twitter/follow/chiragpatel1499?style=social)](https://twitter.com/chiragpatel1499)
@@ -14,7 +14,7 @@
 ```javascript
 var Chirag = {
   pronouns: "He" | "Him",
-  DevOps Toys: [Kubernetes, Docker, Helm, Jenkins, Datadog, Terraform, Python],
+  DevOps Toys: [Kubernetes, Docker, Helm, Jenkins, Datadog, Terraform, Python, Grafana, Prometheus],
   Cloud: [Azure, GCP, AWS],
   about: "I am a DevOps Engineer who is passionate about learning and creating solutions.\n
           I have worked with web and cloud platform.\n
